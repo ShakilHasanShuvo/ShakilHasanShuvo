@@ -1,29 +1,110 @@
-![Web Developers](https://res.cloudinary.com/dvmslbdhz/image/upload/v1758013487/1758013334805_ym3ioo.jpg)
+<!-- ===================================================== -->
+<!-- 🌟 ADVANCED GITHUB PORTFOLIO by Md. Arifur Rahman Shakil -->
+<!-- ===================================================== -->
 
-# 💫 About Me:
-I'm currently working on: GitHub<br><br>I'm currently learning: Javascript<br><br>I'm looking to collaborate on: GitHub<br><br>I'm looking for help with: GitHub<br><br>Ask me about: Web Development<br><br>How to reach me: mdarifurrahmanshakil@gmail.com<br><br>Pronouns: Imran Sir<br><br>Fun fact: I Love Tech and Tech Love Me
+<h1 align="center">👋 Hi there, I'm <span style="color:#00BFFF;">Md. Arifur Rahman Shakil</span></h1>
+<h3 align="center">💻 Front-End Developer | ⚖️ Law Student | 🌍 Tech Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mdarifurrahmanshakil) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Crq7wHuuh/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shakilhasanshuvo0?igsh=MTJqdG4xZXFkcTZ1OQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-arifur-rahman-shakil-77292813a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ArifurShakil?t=D0IEzKPpG6mHMasmF_CrAQ&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@shakilhasanshuvo363?si=yu-zn3htKYDFx5oU) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdarifurrahmanshakil@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShakilHasanShuvo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShakilHasanShuvo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakilHasanShuvo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShakilHasanShuvo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShakilHasanShuvo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShakilHasanShuvo&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ShakilHasanShuvo?label=Followers&style=flat-square&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/ShakilHasanShuvo?label=Stars&style=flat-square&color=yellow" alt="GitHub stars" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShakilHasanShuvo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+I'm a **Front-End Web Developer** passionate about crafting modern, responsive, and user-friendly websites.  
+I specialize in **HTML, CSS, and JavaScript**, and I love turning ideas into beautiful digital experiences.  
+
+🎓 Studying **Bachelor of Laws (LLB)** at *Gono Bishwabidyalay, Dhaka*  
+🌱 Currently learning **React.js** and **Tailwind CSS**  
+💬 Ask me about: HTML, CSS, JS, or responsive design  
+⚡ Fun fact: I write code with coffee ☕ and debug with patience 🧘‍♂️  
+
+---
+
+### 🧠 Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode,figma" />
+</p>
+
+---
+
+### 🚀 My Services
+✅ Responsive Website Design & Development  
+✅ Custom Landing Pages & Portfolio Sites  
+✅ Front-end UI/UX Implementation  
+✅ Cross-browser Compatibility & Bug Fixing  
+✅ Website Optimization & SEO  
+
+---
+
+### 🧩 Featured Projects
+| Project | Description | Tech Used |
+|----------|--------------|------------|
+| 🌐 **Portfolio Website** | Personal responsive portfolio showcasing my skills | HTML, CSS, JS |
+| 🏢 **Landing Page Design** | A fast, modern landing page for a local business | HTML, CSS, JS |
+| 💻 **Mini UI Components** | Reusable UI elements built with clean code | HTML, CSS |
+
+🔗 Explore all my projects on [GitHub Repositories →](https://github.com/ShakilHasanShuvo)
+
+---
+
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShakilHasanShuvo&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShakilHasanShuvo&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakilHasanShuvo&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Achievements & Contributions
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShakilHasanShuvo&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShakilHasanShuvo&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🌍 Languages I Speak
+🇬🇧 English | 🇧🇩 Bangla | 🇮🇳 Hindi  
+
+---
+
+### 🎯 Hobbies & Interests
+📚 Reading | 🎵 Music | 🎮 Gaming | ✈️ Traveling | 🚶 Hiking | 🎣 Fishing  
+
+---
+
+### 🤝 Connect With Me
+<p align="center">
+  <a href="mailto:mdarifurrahmanshakil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/md-arifur-rahman-shakil-77292813a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ShakilHasanShuvo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+### 🦾 Motto
+> “Code. Create. Collaborate. Repeat.” 💪  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Web+Designer;Open+Source+Contributor;Always+Learning+New+Things!">
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+Let’s build something awesome together! 🚀
